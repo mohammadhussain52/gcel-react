@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { PhoneCall, Mail, ShieldCheck, Menu, X } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 import logo from "../assets/gce-logo.png";
 import call from "../assets/call.png";
 import email from "../assets/mail.png";
